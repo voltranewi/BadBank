@@ -10,6 +10,7 @@ Installation Guidelines:
 Clone este proyecto a su repositorio o descargue directamente en formato zip.
 
 Git clone.
+npm install.
 
 Technology used:
     
